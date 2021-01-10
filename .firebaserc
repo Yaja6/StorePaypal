@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "crud-9ce73": {
+      "hosting": {
+        "AppPaypal": [
+          "crud-9ce73"
+        ]
+      }
+    }
+  }
+}
