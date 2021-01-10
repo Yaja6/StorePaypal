@@ -1,0 +1,17 @@
+.row{
+    margin-top: 15px;
+}
+.card-img-top{
+    width: 100%;
+}
+.btn-lg{
+    background-color:#EC412A;
+    border-radius: 40px;
+    color: white;
+}
+.btn-lg:hover, .btn-lg:focus {
+    background-color: white;
+    color:#EC412A;
+    border-color: #EC412A;
+  
+}

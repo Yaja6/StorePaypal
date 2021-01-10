@@ -1,0 +1,17 @@
+<div class="container">
+    <div class="row">
+      <div class="col">
+        <img  [src]="producto.img" class="card-img-top" alt="...">
+      </div>
+      <div class="col">
+        <div class="card-body">
+            <h1 class="card-title">{{producto.titulo}}</h1>
+            <hr>
+            <h2 class="price">{{producto.precio}}</h2>
+            <p class="card-text">{{producto.descripcion}}</p>
+            <hr>
+            <div #paypal></div>
+          </div>
+      </div>
+    </div>
+</div>
